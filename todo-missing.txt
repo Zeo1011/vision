@@ -1,0 +1,22 @@
+
+*to do prio back end:
+-incident display (display lang, ok na database)
+
+others:
+-location tracking (gps, maps)
+-multimedia capture (img only for now)
+-Sign up additional info (ie. age, gender, username, address)
+-user settings (ability to adjust passwords, email, name, etc)
+-drop down for type accidents
+-forgot password
+
+
+*missing front end
+- Contact Us
+- About
+- image assets
+- May data na iba, wala lang display (ie. location, type of accident, etc)
+- nav bar ng ibang page wala
+
+*list down suggestions
+-
